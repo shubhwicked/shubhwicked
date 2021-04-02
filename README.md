@@ -7,8 +7,8 @@ These are too much for a human, but yes I am surely a programmer :information_de
   🌱 I’m currently learning C++ & Machine Learning.\
   👯 I’m looking to collaborate on open source libraries.\
   💬 Ask me about Android and CP.\
-  📫 How to reach me: [Shubham Kamlapuri](mailto:shubhwicked@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-  :envelope: [Twitter](https://twitter.com/SHUBH_DUDE) [LinkedIn](https://www.linkedin.com/in/shubhamkamlapuri/) [Medium](https://medium.com/@shubhwicked) [My not impressive Poems](https://hellopoetry.com/shubhwicked/)\
+  📫 How to reach me: [Shubham Kamlapuri](mailto:shubhwicked@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)\
+  :envelope: [Twitter](https://twitter.com/SHUBH_DUDE)<br/>   [LinkedIn](https://www.linkedin.com/in/shubhamkamlapuri/)<br/>   [Medium](https://medium.com/@shubhwicked)<br/>   [My not impressive Poems](https://hellopoetry.com/shubhwicked/) <br/>
   😄 Pronouns: Shubham
 
 :bookmark: PortFolio :bookmark:\
@@ -34,7 +34,7 @@ These are too much for a human, but yes I am surely a programmer :information_de
   [Snap Photo](https://play.google.com/store/apps/details?id=com.VideobirdStudio.BlurBackgroundandFacialSnap)\
 
 ** A little Contribution to **\
-[GlamAR](https://play.google.com/store/apps/details?id=com.fynd.ficto) and many more pheww!!\
+[GlamAR](https://play.google.com/store/apps/details?id=com.fynd.ficto) and many more pheww!!
 
 :bookmark: OpenSource Contribution :bookmark:\
 Use [GPUImage Plus](https://github.com/wysaid/android-gpuimage-plus)\
