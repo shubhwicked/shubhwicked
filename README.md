@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 I m Shubham, a human who loves machine, universe enthusiast :earth_asia:, Competitive programmer & Android developer :computer:.\
 These are too much for a human, but yes I am surely a programmer :information_desk_person:.
 
@@ -8,7 +8,7 @@ These are too much for a human, but yes I am surely a programmer :information_de
   👯 I’m looking to collaborate on open source libraries.\
   💬 Ask me about Android and CP.\
   📫 How to reach me: [Shubham Kamlapuri](mailto:shubhwicked@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)\
-  :envelope: [Twitter](https://twitter.com/SHUBH_DUDE)<br/>   [LinkedIn](https://www.linkedin.com/in/shubhamkamlapuri/)<br/>   [Medium](https://medium.com/@shubhwicked)<br/>   [My not impressive Poems](https://hellopoetry.com/shubhwicked/) <br/>
+  :envelope: [Twitter](https://twitter.com/SHUBH_DUDE) [LinkedIn](https://www.linkedin.com/in/shubhamkamlapuri/) [Medium](https://medium.com/@shubhwicked) [My not so impressive Poems](https://hellopoetry.com/shubhwicked/) <br/>
   😄 Pronouns: Shubham
 
 :bookmark: PortFolio :bookmark:\
