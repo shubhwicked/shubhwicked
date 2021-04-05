@@ -8,7 +8,7 @@ These are too much for a human, but yes I am surely a programmer :information_de
   👯 I’m looking to collaborate on open source libraries.\
   💬 Ask me about Android and CP.\
   📫 How to reach me: [Shubham Kamlapuri](mailto:shubhwicked@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)\
-  :envelope: [Twitter](https://twitter.com/SHUBH_DUDE) [LinkedIn](https://www.linkedin.com/in/shubhamkamlapuri/) [Medium](https://medium.com/@shubhwicked) [My not so impressive Poems](https://hellopoetry.com/shubhwicked/) <br/>
+  :envelope: [Twitter](https://twitter.com/SHUBH_DUDE), [LinkedIn](https://www.linkedin.com/in/shubhamkamlapuri/), [Medium](https://medium.com/@shubhwicked), [My not so impressive Poems](https://hellopoetry.com/shubhwicked/) <br/>
   😄 Pronouns: Shubham
 
 :bookmark: PortFolio :bookmark:\
