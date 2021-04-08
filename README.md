@@ -31,12 +31,12 @@ These are too much for a human, but yes I am surely a programmer :information_de
   [Water drink Reminder](https://play.google.com/store/apps/details?id=com.cmobileapps.waterdrinkreminder)\
   [Gif Maker](https://play.google.com/store/apps/details?id=com.cmobileapps.gifmaker)\
   [Music Player](https://play.google.com/store/apps/details?id=com.cmobileapps.musicplayer)\
-  [Snap Photo](https://play.google.com/store/apps/details?id=com.VideobirdStudio.BlurBackgroundandFacialSnap)\
+  [Snap Photo](https://play.google.com/store/apps/details?id=com.VideobirdStudio.BlurBackgroundandFacialSnap)
 
-** A little Contribution to **\
+**Contribution to**\
 [GlamAR](https://play.google.com/store/apps/details?id=com.fynd.ficto) and many more pheww!!
 
 :bookmark: OpenSource Contribution :bookmark:\
-Use [GPUImage Plus](https://github.com/wysaid/android-gpuimage-plus)\
+Use [GPUImage Plus](https://github.com/wysaid/android-gpuimage-plus) in many projects.\
 [AirVid](https://github.com/shubhwicked/AirVid)\
 [Camera](https://github.com/shubhwicked/Camera)
