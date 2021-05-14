@@ -3,7 +3,7 @@ I m Shubham, a human who loves machine, universe enthusiast :earth_asia:, Compet
 These are too much for a human, but yes I am surely a programmer :information_desk_person:.
 
 
-  🔭 I’m currently working on [GlamAR](https://glamar.fynd.com) virtual mirror app.\
+  🔭 I’m currently working with [DeHaat](https://agrevolution.in/) .\
   🌱 I’m currently learning C++ & Machine Learning.\
   👯 I’m looking to collaborate on open source libraries.\
   💬 Ask me about Android and CP.\
