@@ -12,18 +12,12 @@ These are too much for a human, but yes I am surely a programmer :information_de
   😄 Pronouns: Shubham
 
 :bookmark: PortFolio :bookmark:\
-  [DBA](https://play.google.com/store/apps/details?id=com.intspvt.app.dehaat2)
-  [Video Crop](https://play.google.com/store/apps/details?id=com.fotopix.cropvideotrim)\
-  [Photo Mirror](https://play.google.com/store/apps/details?id=com.Biplabs.SquarePhotoMirror)\
-  [Slow fast Video](https://play.google.com/store/apps/details?id=com.VideobirdStudio.SlowMotionVideo)\
-  [Photo Slideshow](https://play.google.com/store/apps/details?id=com.PICCHAT.PictureVideoSlideshowMusic)\
-  [Poster Maker](https://play.google.com/store/apps/details?id=com.cmobileapps.posters)\
-  [Flash Alerts](https://play.google.com/store/apps/details?id=com.fantasticdroid.flashalerts)\
-  [Remove BG](https://play.google.com/store/apps/details?id=com.Biplabs.memorablebackgroundchanger)\
-  [Video Compressor](https://play.google.com/store/apps/details?id=com.Biplabs.videocompressor)\
-  [Saga Animated](https://play.google.com/store/apps/details?id=com.fotopix.sagastorymaker)\
-  [Scan Document](https://play.google.com/store/apps/details?id=com.fotopix.scanapp)\
-  [Coloring book](https://play.google.com/store/apps/details?id=com.Fotopix.Colorfy)\
+  [DBA](https://play.google.com/store/apps/details?id=com.intspvt.app.dehaat2) | [Video Crop](https://play.google.com/store/apps/details?id=com.fotopix.cropvideotrim)\
+  [Photo Mirror](https://play.google.com/store/apps/details?id=com.Biplabs.SquarePhotoMirror)  |  [Slow fast Video](https://play.google.com/store/apps/details?id=com.VideobirdStudio.SlowMotionVideo)\
+  [Photo Slideshow](https://play.google.com/store/apps/details?id=com.PICCHAT.PictureVideoSlideshowMusic)  |  [Poster Maker](https://play.google.com/store/apps/details?id=com.cmobileapps.posters)\
+  [Flash Alerts](https://play.google.com/store/apps/details?id=com.fantasticdroid.flashalerts)  |  [Remove BG](https://play.google.com/store/apps/details?id=com.Biplabs.memorablebackgroundchanger)\
+  [Video Compressor](https://play.google.com/store/apps/details?id=com.Biplabs.videocompressor)  |  [Saga Animated](https://play.google.com/store/apps/details?id=com.fotopix.sagastorymaker)\
+  [Scan Document](https://play.google.com/store/apps/details?id=com.fotopix.scanapp)  |  [Coloring book](https://play.google.com/store/apps/details?id=com.Fotopix.Colorfy)
   
 **Contribution to**\
 [GlamAR](https://play.google.com/store/apps/details?id=com.fynd.ficto) and many more pheww!!
